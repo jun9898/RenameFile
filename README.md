@@ -6,13 +6,15 @@
 
 다시 파일 이름을 변경해주는 번거로움을 해결하기 해결하기 위해 지정한 폴더의 특수한 기호가 들어간 파일 이름을 일괄적으로 변경하는 프로그램을 만들었다.
 
-![image](https://github.com/jun9898/RenameFile/assets/129564528/386cce96-4553-42e2-8f9a-864888658e56)
+![image](https://github.com/jun9898/RenameFile/assets/129564528/87eb395b-606c-4cd2-8afc-bb6e3756bc18)
 
 우선 이름을 변경할 파일이 저장되어있는 폴더를 선택해준다.
 
 ![image](https://github.com/jun9898/RenameFile/assets/129564528/d3364d29-06dd-4299-96b6-61bc52b4c473)
+![image](https://github.com/jun9898/RenameFile/assets/129564528/7103d84a-d1b0-4576-983b-84010bffff45)
 
 폴더를 선택했다면 해당 폴더에 저장되어있는 파일명이 호출된다.
+호출된 파일을 취소하는것 또한 가능하다.
 
 ![image](https://github.com/jun9898/RenameFile/assets/129564528/04354dd4-0cc3-4a8d-bc7e-cd724256b4ea)
 
